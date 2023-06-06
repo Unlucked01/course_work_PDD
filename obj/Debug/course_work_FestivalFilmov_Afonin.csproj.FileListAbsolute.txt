@@ -1,0 +1,227 @@
+E:\Афонин с#\CourseWorkAfonin\course_work_FestivalFilmov_Afonin\bin\Debug\course_work_FestivalFilmov_Afonin.exe.config
+E:\Афонин с#\CourseWorkAfonin\course_work_FestivalFilmov_Afonin\bin\Debug\course_work_FestivalFilmov_Afonin.exe
+E:\Афонин с#\CourseWorkAfonin\course_work_FestivalFilmov_Afonin\bin\Debug\course_work_FestivalFilmov_Afonin.pdb
+E:\Афонин с#\CourseWorkAfonin\course_work_FestivalFilmov_Afonin\bin\Debug\Newtonsoft.Json.dll
+E:\Афонин с#\CourseWorkAfonin\course_work_FestivalFilmov_Afonin\bin\Debug\Newtonsoft.Json.xml
+E:\Афонин с#\CourseWorkAfonin\course_work_FestivalFilmov_Afonin\obj\Debug\course_work_FestivalFilmov_Afonin.csproj.AssemblyReference.cache
+E:\Афонин с#\CourseWorkAfonin\course_work_FestivalFilmov_Afonin\obj\Debug\course_work_FestivalFilmov_Afonin.csproj.SuggestedBindingRedirects.cache
+E:\Афонин с#\CourseWorkAfonin\course_work_FestivalFilmov_Afonin\obj\Debug\course_work_FestivalFilmov_Afonin.MainForm.resources
+E:\Афонин с#\CourseWorkAfonin\course_work_FestivalFilmov_Afonin\obj\Debug\course_work_FestivalFilmov_Afonin.Properties.Resources.resources
+E:\Афонин с#\CourseWorkAfonin\course_work_FestivalFilmov_Afonin\obj\Debug\course_work_FestivalFilmov_Afonin.csproj.GenerateResource.cache
+E:\Афонин с#\CourseWorkAfonin\course_work_FestivalFilmov_Afonin\obj\Debug\course_work_FestivalFilmov_Afonin.csproj.CoreCompileInputs.cache
+E:\Афонин с#\CourseWorkAfonin\course_work_FestivalFilmov_Afonin\obj\Debug\course_work_FestivalFilmov_Afonin.csproj.CopyComplete
+E:\Афонин с#\CourseWorkAfonin\course_work_FestivalFilmov_Afonin\obj\Debug\course_work_FestivalFilmov_Afonin.exe
+E:\Афонин с#\CourseWorkAfonin\course_work_FestivalFilmov_Afonin\obj\Debug\course_work_FestivalFilmov_Afonin.pdb
+E:\Афонин с#\CourseWorkAfonin\course_work_FestivalFilmov_Afonin\obj\Debug\course_work_FestivalFilmov_Afonin.FilmForm.resources
+E:\Афонин с#\CourseWorkAfonin\course_work_FestivalFilmov_Afonin\obj\Debug\course_work_FestivalFilmov_Afonin.FilmFestivalForm.resources
+E:\Афонин с#\CourseWorkAfonin\course_work_FestivalFilmov_Afonin\obj\Debug\course_work_FestivalFilmov_Afonin.ParticipantsFestivalForm.resources
+E:\Афонин с#\CourseWorkAfonin\course_work_FestivalFilmov_Afonin\obj\Debug\course_work_FestivalFilmov_Afonin.ParticipantsForm.resources
+E:\Афонин с#\CourseWorkAfonin\course_work_FestivalFilmov_Afonin\obj\Debug\course_work_FestivalFilmov_Afonin.JuryFestivalForm.resources
+E:\Афонин с#\CourseWorkAfonin\course_work_FestivalFilmov_Afonin\obj\Debug\course_work_FestivalFilmov_Afonin.JuryForm.resources
+E:\Афонин с#\CourseWorkAfonin\course_work_FestivalFilmov_Afonin\obj\Debug\course_work_FestivalFilmov_Afonin.GuestFestivalForm.resources
+E:\Афонин с#\CourseWorkAfonin\course_work_FestivalFilmov_Afonin\obj\Debug\course_work_FestivalFilmov_Afonin.GuestForm.resources
+C:\Users\egork\source\repos\OOP_Sharp_LAB\CourseWorkAfonin\course_work_FestivalFilmov_Afonin\bin\Debug\course_work_FestivalFilmov_Afonin.exe.config
+C:\Users\egork\source\repos\OOP_Sharp_LAB\CourseWorkAfonin\course_work_FestivalFilmov_Afonin\bin\Debug\course_work_FestivalFilmov_Afonin.exe
+C:\Users\egork\source\repos\OOP_Sharp_LAB\CourseWorkAfonin\course_work_FestivalFilmov_Afonin\bin\Debug\course_work_FestivalFilmov_Afonin.pdb
+C:\Users\egork\source\repos\OOP_Sharp_LAB\CourseWorkAfonin\course_work_FestivalFilmov_Afonin\bin\Debug\Newtonsoft.Json.dll
+C:\Users\egork\source\repos\OOP_Sharp_LAB\CourseWorkAfonin\course_work_FestivalFilmov_Afonin\bin\Debug\Newtonsoft.Json.xml
+C:\Users\egork\source\repos\OOP_Sharp_LAB\CourseWorkAfonin\course_work_FestivalFilmov_Afonin\obj\Debug\course_work_FestivalFilmov_Afonin.csproj.AssemblyReference.cache
+C:\Users\egork\source\repos\OOP_Sharp_LAB\CourseWorkAfonin\course_work_FestivalFilmov_Afonin\obj\Debug\course_work_FestivalFilmov_Afonin.csproj.SuggestedBindingRedirects.cache
+C:\Users\egork\source\repos\OOP_Sharp_LAB\CourseWorkAfonin\course_work_FestivalFilmov_Afonin\obj\Debug\course_work_FestivalFilmov_Afonin.FilmFestivalForm.resources
+C:\Users\egork\source\repos\OOP_Sharp_LAB\CourseWorkAfonin\course_work_FestivalFilmov_Afonin\obj\Debug\course_work_FestivalFilmov_Afonin.FilmForm.resources
+C:\Users\egork\source\repos\OOP_Sharp_LAB\CourseWorkAfonin\course_work_FestivalFilmov_Afonin\obj\Debug\course_work_FestivalFilmov_Afonin.GuestFestivalForm.resources
+C:\Users\egork\source\repos\OOP_Sharp_LAB\CourseWorkAfonin\course_work_FestivalFilmov_Afonin\obj\Debug\course_work_FestivalFilmov_Afonin.GuestForm.resources
+C:\Users\egork\source\repos\OOP_Sharp_LAB\CourseWorkAfonin\course_work_FestivalFilmov_Afonin\obj\Debug\course_work_FestivalFilmov_Afonin.JuryFestivalForm.resources
+C:\Users\egork\source\repos\OOP_Sharp_LAB\CourseWorkAfonin\course_work_FestivalFilmov_Afonin\obj\Debug\course_work_FestivalFilmov_Afonin.JuryForm.resources
+C:\Users\egork\source\repos\OOP_Sharp_LAB\CourseWorkAfonin\course_work_FestivalFilmov_Afonin\obj\Debug\course_work_FestivalFilmov_Afonin.MainForm.resources
+C:\Users\egork\source\repos\OOP_Sharp_LAB\CourseWorkAfonin\course_work_FestivalFilmov_Afonin\obj\Debug\course_work_FestivalFilmov_Afonin.ParticipantsFestivalForm.resources
+C:\Users\egork\source\repos\OOP_Sharp_LAB\CourseWorkAfonin\course_work_FestivalFilmov_Afonin\obj\Debug\course_work_FestivalFilmov_Afonin.ParticipantsForm.resources
+C:\Users\egork\source\repos\OOP_Sharp_LAB\CourseWorkAfonin\course_work_FestivalFilmov_Afonin\obj\Debug\course_work_FestivalFilmov_Afonin.Properties.Resources.resources
+C:\Users\egork\source\repos\OOP_Sharp_LAB\CourseWorkAfonin\course_work_FestivalFilmov_Afonin\obj\Debug\course_work_FestivalFilmov_Afonin.csproj.GenerateResource.cache
+C:\Users\egork\source\repos\OOP_Sharp_LAB\CourseWorkAfonin\course_work_FestivalFilmov_Afonin\obj\Debug\course_work_FestivalFilmov_Afonin.csproj.CoreCompileInputs.cache
+C:\Users\egork\source\repos\OOP_Sharp_LAB\CourseWorkAfonin\course_work_FestivalFilmov_Afonin\obj\Debug\course_work_FestivalFilmov_Afonin.csproj.CopyComplete
+C:\Users\egork\source\repos\OOP_Sharp_LAB\CourseWorkAfonin\course_work_FestivalFilmov_Afonin\obj\Debug\course_work_FestivalFilmov_Afonin.exe
+C:\Users\egork\source\repos\OOP_Sharp_LAB\CourseWorkAfonin\course_work_FestivalFilmov_Afonin\obj\Debug\course_work_FestivalFilmov_Afonin.pdb
+E:\Афонин с#\Курсач Афонин ООП\CourseWorkOOP-main\bin\Debug\course_work_FestivalFilmov_Afonin.exe.config
+E:\Афонин с#\Курсач Афонин ООП\CourseWorkOOP-main\bin\Debug\course_work_FestivalFilmov_Afonin.exe
+E:\Афонин с#\Курсач Афонин ООП\CourseWorkOOP-main\bin\Debug\course_work_FestivalFilmov_Afonin.pdb
+E:\Афонин с#\Курсач Афонин ООП\CourseWorkOOP-main\bin\Debug\Newtonsoft.Json.dll
+E:\Афонин с#\Курсач Афонин ООП\CourseWorkOOP-main\bin\Debug\Newtonsoft.Json.xml
+E:\Афонин с#\Курсач Афонин ООП\CourseWorkOOP-main\obj\Debug\course_work_FestivalFilmov_Afonin.csproj.AssemblyReference.cache
+E:\Афонин с#\Курсач Афонин ООП\CourseWorkOOP-main\obj\Debug\course_work_FestivalFilmov_Afonin.csproj.SuggestedBindingRedirects.cache
+E:\Афонин с#\Курсач Афонин ООП\CourseWorkOOP-main\obj\Debug\course_work_FestivalFilmov_Afonin.FilmFestivalForm.resources
+E:\Афонин с#\Курсач Афонин ООП\CourseWorkOOP-main\obj\Debug\course_work_FestivalFilmov_Afonin.FilmForm.resources
+E:\Афонин с#\Курсач Афонин ООП\CourseWorkOOP-main\obj\Debug\course_work_FestivalFilmov_Afonin.GuestFestivalForm.resources
+E:\Афонин с#\Курсач Афонин ООП\CourseWorkOOP-main\obj\Debug\course_work_FestivalFilmov_Afonin.GuestForm.resources
+E:\Афонин с#\Курсач Афонин ООП\CourseWorkOOP-main\obj\Debug\course_work_FestivalFilmov_Afonin.JuryFestivalForm.resources
+E:\Афонин с#\Курсач Афонин ООП\CourseWorkOOP-main\obj\Debug\course_work_FestivalFilmov_Afonin.JuryForm.resources
+E:\Афонин с#\Курсач Афонин ООП\CourseWorkOOP-main\obj\Debug\course_work_FestivalFilmov_Afonin.ParticipantsFestivalForm.resources
+E:\Афонин с#\Курсач Афонин ООП\CourseWorkOOP-main\obj\Debug\course_work_FestivalFilmov_Afonin.ParticipantsForm.resources
+E:\Афонин с#\Курсач Афонин ООП\CourseWorkOOP-main\obj\Debug\course_work_FestivalFilmov_Afonin.Properties.Resources.resources
+E:\Афонин с#\Курсач Афонин ООП\CourseWorkOOP-main\obj\Debug\course_work_FestivalFilmov_Afonin.csproj.GenerateResource.cache
+E:\Афонин с#\Курсач Афонин ООП\CourseWorkOOP-main\obj\Debug\course_work_FestivalFilmov_Afonin.csproj.CoreCompileInputs.cache
+E:\Афонин с#\Курсач Афонин ООП\CourseWorkOOP-main\obj\Debug\course_work_FestivalFilmov_Afonin.csproj.CopyComplete
+E:\Афонин с#\Курсач Афонин ООП\CourseWorkOOP-main\obj\Debug\course_work_FestivalFilmov_Afonin.exe
+E:\Афонин с#\Курсач Афонин ООП\CourseWorkOOP-main\obj\Debug\course_work_FestivalFilmov_Afonin.pdb
+E:\Афонин с#\Курсач Афонин ООП\CourseWorkOOP-main\obj\Debug\course_work_FestivalFilmov_Afonin.MenuForm.resources
+E:\Афонин с#\Курсач Афонин ООП\CourseWorkOOP-main\obj\Debug\course_work_FestivalFilmov_Afonin.StartForm.resources
+C:\Users\egork\Source\Repos\course_work_FestivalFilmov_Afonin\bin\Debug\course_work_FestivalFilmov_Afonin.exe.config
+C:\Users\egork\Source\Repos\course_work_FestivalFilmov_Afonin\bin\Debug\course_work_FestivalFilmov_Afonin.exe
+C:\Users\egork\Source\Repos\course_work_FestivalFilmov_Afonin\bin\Debug\course_work_FestivalFilmov_Afonin.pdb
+C:\Users\egork\Source\Repos\course_work_FestivalFilmov_Afonin\bin\Debug\Newtonsoft.Json.dll
+C:\Users\egork\Source\Repos\course_work_FestivalFilmov_Afonin\bin\Debug\Newtonsoft.Json.xml
+C:\Users\egork\Source\Repos\course_work_FestivalFilmov_Afonin\obj\Debug\course_work_FestivalFilmov_Afonin.csproj.AssemblyReference.cache
+C:\Users\egork\Source\Repos\course_work_FestivalFilmov_Afonin\obj\Debug\course_work_FestivalFilmov_Afonin.csproj.SuggestedBindingRedirects.cache
+C:\Users\egork\Source\Repos\course_work_FestivalFilmov_Afonin\obj\Debug\course_work_FestivalFilmov_Afonin.FilmFestivalForm.resources
+C:\Users\egork\Source\Repos\course_work_FestivalFilmov_Afonin\obj\Debug\course_work_FestivalFilmov_Afonin.FilmForm.resources
+C:\Users\egork\Source\Repos\course_work_FestivalFilmov_Afonin\obj\Debug\course_work_FestivalFilmov_Afonin.GuestFestivalForm.resources
+C:\Users\egork\Source\Repos\course_work_FestivalFilmov_Afonin\obj\Debug\course_work_FestivalFilmov_Afonin.GuestForm.resources
+C:\Users\egork\Source\Repos\course_work_FestivalFilmov_Afonin\obj\Debug\course_work_FestivalFilmov_Afonin.JuryFestivalForm.resources
+C:\Users\egork\Source\Repos\course_work_FestivalFilmov_Afonin\obj\Debug\course_work_FestivalFilmov_Afonin.JuryForm.resources
+C:\Users\egork\Source\Repos\course_work_FestivalFilmov_Afonin\obj\Debug\course_work_FestivalFilmov_Afonin.MenuForm.resources
+C:\Users\egork\Source\Repos\course_work_FestivalFilmov_Afonin\obj\Debug\course_work_FestivalFilmov_Afonin.ParticipantsFestivalForm.resources
+C:\Users\egork\Source\Repos\course_work_FestivalFilmov_Afonin\obj\Debug\course_work_FestivalFilmov_Afonin.ParticipantsForm.resources
+C:\Users\egork\Source\Repos\course_work_FestivalFilmov_Afonin\obj\Debug\course_work_FestivalFilmov_Afonin.Properties.Resources.resources
+C:\Users\egork\Source\Repos\course_work_FestivalFilmov_Afonin\obj\Debug\course_work_FestivalFilmov_Afonin.StartForm.resources
+C:\Users\egork\Source\Repos\course_work_FestivalFilmov_Afonin\obj\Debug\course_work_FestivalFilmov_Afonin.csproj.GenerateResource.cache
+C:\Users\egork\Source\Repos\course_work_FestivalFilmov_Afonin\obj\Debug\course_work_FestivalFilmov_Afonin.csproj.CoreCompileInputs.cache
+C:\Users\egork\Source\Repos\course_work_FestivalFilmov_Afonin\obj\Debug\course_work_FestivalFilmov_Afonin.csproj.CopyComplete
+C:\Users\egork\Source\Repos\course_work_FestivalFilmov_Afonin\obj\Debug\course_work_FestivalFilmov_Afonin.exe
+C:\Users\egork\Source\Repos\course_work_FestivalFilmov_Afonin\obj\Debug\course_work_FestivalFilmov_Afonin.pdb
+C:\Users\egork\Source\Repos\course_work_FestivalFilmov_Afonin\obj\Debug\course_work_FestivalFilmov_Afonin.DriverForm.resources
+C:\Users\egork\Source\Repos\course_work_FestivalFilmov_Afonin\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\egork\Source\Repos\course_work_FestivalFilmov_Afonin\bin\Debug\Microsoft.Bcl.HashCode.dll
+C:\Users\egork\Source\Repos\course_work_FestivalFilmov_Afonin\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\egork\Source\Repos\course_work_FestivalFilmov_Afonin\bin\Debug\Npgsql.dll
+C:\Users\egork\Source\Repos\course_work_FestivalFilmov_Afonin\bin\Debug\System.Buffers.dll
+C:\Users\egork\Source\Repos\course_work_FestivalFilmov_Afonin\bin\Debug\System.Collections.Immutable.dll
+C:\Users\egork\Source\Repos\course_work_FestivalFilmov_Afonin\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\egork\Source\Repos\course_work_FestivalFilmov_Afonin\bin\Debug\System.Memory.dll
+C:\Users\egork\Source\Repos\course_work_FestivalFilmov_Afonin\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\egork\Source\Repos\course_work_FestivalFilmov_Afonin\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\egork\Source\Repos\course_work_FestivalFilmov_Afonin\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\egork\Source\Repos\course_work_FestivalFilmov_Afonin\bin\Debug\System.Text.Json.dll
+C:\Users\egork\Source\Repos\course_work_FestivalFilmov_Afonin\bin\Debug\System.Threading.Channels.dll
+C:\Users\egork\Source\Repos\course_work_FestivalFilmov_Afonin\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\egork\Source\Repos\course_work_FestivalFilmov_Afonin\bin\Debug\System.ValueTuple.dll
+C:\Users\egork\Source\Repos\course_work_FestivalFilmov_Afonin\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\egork\Source\Repos\course_work_FestivalFilmov_Afonin\bin\Debug\Microsoft.Bcl.HashCode.xml
+C:\Users\egork\Source\Repos\course_work_FestivalFilmov_Afonin\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+C:\Users\egork\Source\Repos\course_work_FestivalFilmov_Afonin\bin\Debug\Npgsql.xml
+C:\Users\egork\Source\Repos\course_work_FestivalFilmov_Afonin\bin\Debug\System.Buffers.xml
+C:\Users\egork\Source\Repos\course_work_FestivalFilmov_Afonin\bin\Debug\System.Collections.Immutable.xml
+C:\Users\egork\Source\Repos\course_work_FestivalFilmov_Afonin\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\egork\Source\Repos\course_work_FestivalFilmov_Afonin\bin\Debug\System.Memory.xml
+C:\Users\egork\Source\Repos\course_work_FestivalFilmov_Afonin\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\egork\Source\Repos\course_work_FestivalFilmov_Afonin\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\egork\Source\Repos\course_work_FestivalFilmov_Afonin\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\egork\Source\Repos\course_work_FestivalFilmov_Afonin\bin\Debug\System.Text.Json.xml
+C:\Users\egork\Source\Repos\course_work_FestivalFilmov_Afonin\bin\Debug\System.Threading.Channels.xml
+C:\Users\egork\Source\Repos\course_work_FestivalFilmov_Afonin\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\egork\Source\Repos\course_work_FestivalFilmov_Afonin\bin\Debug\System.ValueTuple.xml
+C:\Users\egork\source\repos\course_work_FestivalFilmov_Afonin\obj\Debug\course_work_FestivalFilmov_Afonin.VehicleForm.resources
+C:\Users\Surface\source\repos\course_work_FestivalFilmov_Afonin\bin\Debug\course_work_FestivalFilmov_Afonin.exe.config
+C:\Users\Surface\source\repos\course_work_FestivalFilmov_Afonin\bin\Debug\course_work_FestivalFilmov_Afonin.exe
+C:\Users\Surface\source\repos\course_work_FestivalFilmov_Afonin\bin\Debug\course_work_FestivalFilmov_Afonin.pdb
+C:\Users\Surface\source\repos\course_work_FestivalFilmov_Afonin\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Surface\source\repos\course_work_FestivalFilmov_Afonin\bin\Debug\Microsoft.Bcl.HashCode.dll
+C:\Users\Surface\source\repos\course_work_FestivalFilmov_Afonin\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Surface\source\repos\course_work_FestivalFilmov_Afonin\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Surface\source\repos\course_work_FestivalFilmov_Afonin\bin\Debug\Npgsql.dll
+C:\Users\Surface\source\repos\course_work_FestivalFilmov_Afonin\bin\Debug\System.Buffers.dll
+C:\Users\Surface\source\repos\course_work_FestivalFilmov_Afonin\bin\Debug\System.Collections.Immutable.dll
+C:\Users\Surface\source\repos\course_work_FestivalFilmov_Afonin\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Surface\source\repos\course_work_FestivalFilmov_Afonin\bin\Debug\System.Memory.dll
+C:\Users\Surface\source\repos\course_work_FestivalFilmov_Afonin\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Surface\source\repos\course_work_FestivalFilmov_Afonin\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Surface\source\repos\course_work_FestivalFilmov_Afonin\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\Surface\source\repos\course_work_FestivalFilmov_Afonin\bin\Debug\System.Text.Json.dll
+C:\Users\Surface\source\repos\course_work_FestivalFilmov_Afonin\bin\Debug\System.Threading.Channels.dll
+C:\Users\Surface\source\repos\course_work_FestivalFilmov_Afonin\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\Surface\source\repos\course_work_FestivalFilmov_Afonin\bin\Debug\System.ValueTuple.dll
+C:\Users\Surface\source\repos\course_work_FestivalFilmov_Afonin\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\Surface\source\repos\course_work_FestivalFilmov_Afonin\bin\Debug\Microsoft.Bcl.HashCode.xml
+C:\Users\Surface\source\repos\course_work_FestivalFilmov_Afonin\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+C:\Users\Surface\source\repos\course_work_FestivalFilmov_Afonin\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Surface\source\repos\course_work_FestivalFilmov_Afonin\bin\Debug\Npgsql.xml
+C:\Users\Surface\source\repos\course_work_FestivalFilmov_Afonin\bin\Debug\System.Buffers.xml
+C:\Users\Surface\source\repos\course_work_FestivalFilmov_Afonin\bin\Debug\System.Collections.Immutable.xml
+C:\Users\Surface\source\repos\course_work_FestivalFilmov_Afonin\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\Surface\source\repos\course_work_FestivalFilmov_Afonin\bin\Debug\System.Memory.xml
+C:\Users\Surface\source\repos\course_work_FestivalFilmov_Afonin\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\Surface\source\repos\course_work_FestivalFilmov_Afonin\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Surface\source\repos\course_work_FestivalFilmov_Afonin\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\Surface\source\repos\course_work_FestivalFilmov_Afonin\bin\Debug\System.Text.Json.xml
+C:\Users\Surface\source\repos\course_work_FestivalFilmov_Afonin\bin\Debug\System.Threading.Channels.xml
+C:\Users\Surface\source\repos\course_work_FestivalFilmov_Afonin\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\Surface\source\repos\course_work_FestivalFilmov_Afonin\bin\Debug\System.ValueTuple.xml
+C:\Users\Surface\source\repos\course_work_FestivalFilmov_Afonin\obj\Debug\course_work_FestivalFilmov_Afonin.csproj.AssemblyReference.cache
+C:\Users\Surface\source\repos\course_work_FestivalFilmov_Afonin\obj\Debug\course_work_FestivalFilmov_Afonin.csproj.SuggestedBindingRedirects.cache
+C:\Users\Surface\source\repos\course_work_FestivalFilmov_Afonin\obj\Debug\course_work_FestivalFilmov_Afonin.DriverForm.resources
+C:\Users\Surface\source\repos\course_work_FestivalFilmov_Afonin\obj\Debug\course_work_FestivalFilmov_Afonin.FilmFestivalForm.resources
+C:\Users\Surface\source\repos\course_work_FestivalFilmov_Afonin\obj\Debug\course_work_FestivalFilmov_Afonin.FilmForm.resources
+C:\Users\Surface\source\repos\course_work_FestivalFilmov_Afonin\obj\Debug\course_work_FestivalFilmov_Afonin.GuestFestivalForm.resources
+C:\Users\Surface\source\repos\course_work_FestivalFilmov_Afonin\obj\Debug\course_work_FestivalFilmov_Afonin.GuestForm.resources
+C:\Users\Surface\source\repos\course_work_FestivalFilmov_Afonin\obj\Debug\course_work_FestivalFilmov_Afonin.JuryFestivalForm.resources
+C:\Users\Surface\source\repos\course_work_FestivalFilmov_Afonin\obj\Debug\course_work_FestivalFilmov_Afonin.JuryForm.resources
+C:\Users\Surface\source\repos\course_work_FestivalFilmov_Afonin\obj\Debug\course_work_FestivalFilmov_Afonin.MenuForm.resources
+C:\Users\Surface\source\repos\course_work_FestivalFilmov_Afonin\obj\Debug\course_work_FestivalFilmov_Afonin.ParticipantsFestivalForm.resources
+C:\Users\Surface\source\repos\course_work_FestivalFilmov_Afonin\obj\Debug\course_work_FestivalFilmov_Afonin.ParticipantsForm.resources
+C:\Users\Surface\source\repos\course_work_FestivalFilmov_Afonin\obj\Debug\course_work_FestivalFilmov_Afonin.Properties.Resources.resources
+C:\Users\Surface\source\repos\course_work_FestivalFilmov_Afonin\obj\Debug\course_work_FestivalFilmov_Afonin.StartForm.resources
+C:\Users\Surface\source\repos\course_work_FestivalFilmov_Afonin\obj\Debug\course_work_FestivalFilmov_Afonin.VehicleForm.resources
+C:\Users\Surface\source\repos\course_work_FestivalFilmov_Afonin\obj\Debug\course_work_FestivalFilmov_Afonin.csproj.GenerateResource.cache
+C:\Users\Surface\source\repos\course_work_FestivalFilmov_Afonin\obj\Debug\course_work_FestivalFilmov_Afonin.csproj.CoreCompileInputs.cache
+C:\Users\Surface\source\repos\course_work_FestivalFilmov_Afonin\obj\Debug\course_work_FestivalFilmov_Afonin.csproj.CopyComplete
+C:\Users\Surface\source\repos\course_work_FestivalFilmov_Afonin\obj\Debug\course_work_FestivalFilmov_Afonin.exe
+C:\Users\Surface\source\repos\course_work_FestivalFilmov_Afonin\obj\Debug\course_work_FestivalFilmov_Afonin.pdb
+C:\Users\egorunlucked\source\repos\course_work_FestivalFilmov_Afonin\bin\Debug\course_work_FestivalFilmov_Afonin.exe.config
+C:\Users\egorunlucked\source\repos\course_work_FestivalFilmov_Afonin\bin\Debug\course_work_FestivalFilmov_Afonin.exe
+C:\Users\egorunlucked\source\repos\course_work_FestivalFilmov_Afonin\bin\Debug\course_work_FestivalFilmov_Afonin.pdb
+C:\Users\egorunlucked\source\repos\course_work_FestivalFilmov_Afonin\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\egorunlucked\source\repos\course_work_FestivalFilmov_Afonin\bin\Debug\Microsoft.Bcl.HashCode.dll
+C:\Users\egorunlucked\source\repos\course_work_FestivalFilmov_Afonin\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\egorunlucked\source\repos\course_work_FestivalFilmov_Afonin\bin\Debug\Newtonsoft.Json.dll
+C:\Users\egorunlucked\source\repos\course_work_FestivalFilmov_Afonin\bin\Debug\Npgsql.dll
+C:\Users\egorunlucked\source\repos\course_work_FestivalFilmov_Afonin\bin\Debug\System.Buffers.dll
+C:\Users\egorunlucked\source\repos\course_work_FestivalFilmov_Afonin\bin\Debug\System.Collections.Immutable.dll
+C:\Users\egorunlucked\source\repos\course_work_FestivalFilmov_Afonin\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\egorunlucked\source\repos\course_work_FestivalFilmov_Afonin\bin\Debug\System.Memory.dll
+C:\Users\egorunlucked\source\repos\course_work_FestivalFilmov_Afonin\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\egorunlucked\source\repos\course_work_FestivalFilmov_Afonin\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\egorunlucked\source\repos\course_work_FestivalFilmov_Afonin\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\egorunlucked\source\repos\course_work_FestivalFilmov_Afonin\bin\Debug\System.Text.Json.dll
+C:\Users\egorunlucked\source\repos\course_work_FestivalFilmov_Afonin\bin\Debug\System.Threading.Channels.dll
+C:\Users\egorunlucked\source\repos\course_work_FestivalFilmov_Afonin\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\egorunlucked\source\repos\course_work_FestivalFilmov_Afonin\bin\Debug\System.ValueTuple.dll
+C:\Users\egorunlucked\source\repos\course_work_FestivalFilmov_Afonin\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\egorunlucked\source\repos\course_work_FestivalFilmov_Afonin\bin\Debug\Microsoft.Bcl.HashCode.xml
+C:\Users\egorunlucked\source\repos\course_work_FestivalFilmov_Afonin\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+C:\Users\egorunlucked\source\repos\course_work_FestivalFilmov_Afonin\bin\Debug\Newtonsoft.Json.xml
+C:\Users\egorunlucked\source\repos\course_work_FestivalFilmov_Afonin\bin\Debug\Npgsql.xml
+C:\Users\egorunlucked\source\repos\course_work_FestivalFilmov_Afonin\bin\Debug\System.Buffers.xml
+C:\Users\egorunlucked\source\repos\course_work_FestivalFilmov_Afonin\bin\Debug\System.Collections.Immutable.xml
+C:\Users\egorunlucked\source\repos\course_work_FestivalFilmov_Afonin\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\egorunlucked\source\repos\course_work_FestivalFilmov_Afonin\bin\Debug\System.Memory.xml
+C:\Users\egorunlucked\source\repos\course_work_FestivalFilmov_Afonin\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\egorunlucked\source\repos\course_work_FestivalFilmov_Afonin\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\egorunlucked\source\repos\course_work_FestivalFilmov_Afonin\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\egorunlucked\source\repos\course_work_FestivalFilmov_Afonin\bin\Debug\System.Text.Json.xml
+C:\Users\egorunlucked\source\repos\course_work_FestivalFilmov_Afonin\bin\Debug\System.Threading.Channels.xml
+C:\Users\egorunlucked\source\repos\course_work_FestivalFilmov_Afonin\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\egorunlucked\source\repos\course_work_FestivalFilmov_Afonin\bin\Debug\System.ValueTuple.xml
+C:\Users\egorunlucked\source\repos\course_work_FestivalFilmov_Afonin\obj\Debug\course_work_FestivalFilmov_Afonin.csproj.AssemblyReference.cache
+C:\Users\egorunlucked\source\repos\course_work_FestivalFilmov_Afonin\obj\Debug\course_work_FestivalFilmov_Afonin.csproj.SuggestedBindingRedirects.cache
+C:\Users\egorunlucked\source\repos\course_work_FestivalFilmov_Afonin\obj\Debug\course_work_FestivalFilmov_Afonin.DriverForm.resources
+C:\Users\egorunlucked\source\repos\course_work_FestivalFilmov_Afonin\obj\Debug\course_work_FestivalFilmov_Afonin.MenuForm.resources
+C:\Users\egorunlucked\source\repos\course_work_FestivalFilmov_Afonin\obj\Debug\course_work_FestivalFilmov_Afonin.Properties.Resources.resources
+C:\Users\egorunlucked\source\repos\course_work_FestivalFilmov_Afonin\obj\Debug\course_work_FestivalFilmov_Afonin.StartForm.resources
+C:\Users\egorunlucked\source\repos\course_work_FestivalFilmov_Afonin\obj\Debug\course_work_FestivalFilmov_Afonin.VehicleForm.resources
+C:\Users\egorunlucked\source\repos\course_work_FestivalFilmov_Afonin\obj\Debug\course_work_FestivalFilmov_Afonin.csproj.GenerateResource.cache
+C:\Users\egorunlucked\source\repos\course_work_FestivalFilmov_Afonin\obj\Debug\course_work_FestivalFilmov_Afonin.csproj.CoreCompileInputs.cache
+C:\Users\egorunlucked\source\repos\course_work_FestivalFilmov_Afonin\obj\Debug\course_work_FestivalFilmov_Afonin.csproj.CopyComplete
+C:\Users\egorunlucked\source\repos\course_work_FestivalFilmov_Afonin\obj\Debug\course_work_FestivalFilmov_Afonin.exe
+C:\Users\egorunlucked\source\repos\course_work_FestivalFilmov_Afonin\obj\Debug\course_work_FestivalFilmov_Afonin.pdb
+C:\Users\egorunlucked\source\repos\course_work_FestivalFilmov_Afonin\obj\Debug\course_work_FestivalFilmov_Afonin.BillForm.resources
+C:\Users\egorunlucked\source\repos\course_work_FestivalFilmov_Afonin\obj\Debug\course_work_FestivalFilmov_Afonin.DriversAndVehicles.resources
+C:\Users\egorunlucked\source\repos\course_work_FestivalFilmov_Afonin\obj\Debug\course_work_FestivalFilmov_Afonin.BillsForm.resources
